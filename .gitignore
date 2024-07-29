@@ -1,0 +1,6 @@
+key*
+azure-key*
+.terraform*
+*.out
+*.tfvars
+*.tfstate*
